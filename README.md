@@ -1,6 +1,6 @@
 # Hi, I'm Hamza
 
-I'm a Computer Science student with interests in Computer Networks, NLP, AI and full-stack development.
+I'm a Computer Science student with interests in Computer Networks, NLP, AI, Distributed Systems and full-stack development.
 
 ## 🔧 Projects
 - **[Chat-Server-Summarizer](https://github.com/soddi1/chat-summary-server)** – Backend server for retrieving and generating messages from Discord, Slack and Telegram, using Claude API to generate a summary and sending a summary using a "/" command in discord for that day
