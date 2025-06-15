@@ -3,9 +3,7 @@
 I'm a Computer Science student with interests in Computer Networks, NLP, AI and full-stack development.
 
 ## 🔧 Projects
-- **[Intrusion Detection System using ML](https://github.com/your-username/project-ids-ml)** – Trained models on UNSW-NB15 for anomaly detection.
-- **[Digital Forensics Case Analysis](https://github.com/your-username/digital-forensics-case)** – Investigated disk images using Autopsy and FTK.
-- **[Portfolio Website](https://your-username.github.io/)** – Static site built with Jekyll, deployed via GitHub Pages.
+- **[Chat-Server-Summarizer](https://github.com/soddi1/chat-summary-server)** – Backend server for retrieving and generating messages from Discord, Slack and Telegram, sending a summary using a "/" command in discord
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/sheikh-hamza-elahi-sodana/)
