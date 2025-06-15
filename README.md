@@ -4,6 +4,7 @@ I'm a Computer Science student with interests in Computer Networks, NLP, AI and 
 
 ## 🔧 Projects
 - **[Chat-Server-Summarizer](https://github.com/soddi1/chat-summary-server)** – Backend server for retrieving and generating messages from Discord, Slack and Telegram, sending a summary using a "/" command in discord
+- **[Research-RAG-Assistant](https://github.com/soddi1/research-rag-assistant)** - Research RAG assistant that can create an index of research papers and selectively answer from the research papers or wikipedia depening on the prompt
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/sheikh-hamza-elahi-sodana/)
