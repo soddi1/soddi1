@@ -1,14 +1,28 @@
 # Hi, I'm Hamza
 
-I'm a Computer Science student with interests in Computer Networks, NLP, AI, Distributed Systems and full-stack development.
+I'm a Computer Science student with interests in Computer Networks, NLP, AI, Distributed Systems, and Full-Stack Development.
+
+---
 
 ## 🔧 Projects
-- **[Chat-Server-Summarizer](https://github.com/soddi1/chat-summary-server)** – Backend server for retrieving and generating messages from Discord, Slack and Telegram, using Claude API to generate a summary and sending a summary using a "/" command in discord for that day
-- **[Research-RAG-Assistant](https://github.com/soddi1/research-rag-assistant)** - Research RAG assistant that can create an index of research papers and selectively answer from the research papers or wikipedia depening on the prompt
-- **[Raft-KV-Store](https://github.com/soddi1/raft-kv-store)** - Implemented a distributed, fault-tolerant key-value store supporting leader elections and log replication with
-persistence
-- **[Unix-Shell-Clone](https://github.com/soddi1/unix-shell-clone)** - Created a shell in C capable of handling conjugated commands and pipelining
+
+- **[Chat-Server-Summarizer](https://github.com/soddi1/chat-summary-server)** – Backend server for retrieving and generating messages from Discord, Slack, and Telegram. Uses Claude API to summarise messages and delivers daily summaries via a Discord slash command.
+  
+- **[Research-RAG-Assistant](https://github.com/soddi1/research-rag-assistant)** – A retrieval-augmented generation assistant that indexes research papers and selectively answers questions using either local academic content or Wikipedia, depending on user intent.
+  
+- **[Raft-KV-Store](https://github.com/soddi1/raft-kv-store)** – A distributed, fault-tolerant key-value store implemented in Go. Supports leader election, log replication, and persistent state recovery based on the Raft consensus algorithm.
+  
+- **[Unix-Shell-Clone](https://github.com/soddi1/unix-shell-clone)** – A custom-built shell in C that supports core UNIX commands, I/O redirection, pipelines, wildcard expansion, aliases, and command history.
+
+---
+
+## 📄 CV
+
+You can view/download my CV [here](https://your-cv-link.com)  
+
+---
 
 ## 📫 Contact
+
 - [LinkedIn](https://www.linkedin.com/in/sheikh-hamza-elahi-sodana/)
 - Email: hamzaelahi000@gmail.com
