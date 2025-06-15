@@ -18,7 +18,7 @@ I'm a Computer Science student with interests in Computer Networks, NLP, AI, Dis
 
 ## 📄 CV
 
-You can view/download my CV [here](https://your-cv-link.com)  
+You can view/download my CV [here](https://drive.google.com/file/d/1_U_i17AVLEQSXqo5eTuo96ZEQ9wtVs-v/view?usp=sharing)  
 
 ---
 
