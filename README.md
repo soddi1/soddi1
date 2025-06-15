@@ -7,6 +7,7 @@ I'm a Computer Science student with interests in Computer Networks, NLP, AI, Dis
 - **[Research-RAG-Assistant](https://github.com/soddi1/research-rag-assistant)** - Research RAG assistant that can create an index of research papers and selectively answer from the research papers or wikipedia depening on the prompt
 - **[Raft-KV-Store](https://github.com/soddi1/raft-kv-store)** - Implemented a distributed, fault-tolerant key-value store supporting leader elections and log replication with
 persistence
+- **[Unix-Shell-Clone](https://github.com/soddi1/unix-shell-clone)** - Created a shell in C capable of handling conjugated commands and pipelining
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/sheikh-hamza-elahi-sodana/)
