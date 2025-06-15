@@ -14,6 +14,8 @@ I'm a Computer Science student with interests in Computer Networks, NLP, AI, Dis
   
 - **[Unix-Shell-Clone](https://github.com/soddi1/unix-shell-clone)** – A custom-built shell in C that supports core UNIX commands, I/O redirection, pipelines, wildcard expansion, aliases, and command history.
 
+- **[Memory-Allocator](https://github.com/soddi1/memory-allocator)** - Abstracted memory allocator implementing custom malloc() and free() using an embedded free list
+
 ---
 
 ## 📄 CV
