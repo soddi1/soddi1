@@ -18,6 +18,8 @@ I'm a Computer Science student with interests in Computer Networks, NLP, AI, Dis
 
 - **[Mini-Pthread](https://github.com/soddi1/mini-pthread)** - Implemented threading library with multithreading, scheduling, and concurrency control
 
+- **[Unix-Like-Filesystem](https://github.com/soddi1/unix-like-filesystem)** - Implemented file system for file/directory management on an emulated disk
+
 ---
 
 ## 📄 CV
