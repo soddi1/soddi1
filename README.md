@@ -16,6 +16,8 @@ I'm a Computer Science student with interests in Computer Networks, NLP, AI, Dis
 
 - **[Memory-Allocator](https://github.com/soddi1/memory-allocator)** - Abstracted memory allocator implementing custom malloc() and free() using an embedded free list
 
+- **[Mini-Pthread](https://github.com/soddi1/mini-pthread)** - Implemented threading library with multithreading, scheduling, and concurrency control
+
 ---
 
 ## 📄 CV
